@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Day 1 - Fitting an SLR Model
 ================
 
