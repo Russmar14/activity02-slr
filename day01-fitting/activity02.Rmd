@@ -416,11 +416,13 @@ Answer the following question:
 
 12. Based on the histogram, does the nearly normal residuals condition appear to be violated? Why or why not?
 
+**-   No, it does not appear to be violated, it is nearly normally distributed and a small sample size.**
+
 **Constant variability**:
 
 13. Based on the residuals vs. fitted plot, does the constant variability condition appear to be violated? Why or why not?
 
-**-   It does not seem that this constant variability condition is violated, it is roughly normally distributed.**
+**-   It does not seem that this constant variability condition is violated, it is not showing a particular pattern.**
 
 ## Attribution
 
